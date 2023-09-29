@@ -36,6 +36,9 @@ for letra, cantidad in diccionario.items():
     print(letra + ": " + str(cantidad))
     
 # 'letra' es la clave del diccionario y 'cantidad' es el valor de la clave
-# Para verlo mas claro descomentá la siguiente línea
-# print(diccionario)
+# Para verlo mas claro descomentá la última línea y te recomiendo probar con la palabra 'hola'
+# vas a ver algo como esto en tu consola -> {'h': 1, 'o': 1, 'l': 1, 'a': 1}
+# donde lo primero que aparece es la clave y lo segundo el valor o en este caso 
+# la cantidad de veces que aparece en el texto ingresado
+# print(diccionario) # Descomentá esta línea para ver el diccionario completo
     
