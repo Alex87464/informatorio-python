@@ -50,5 +50,9 @@ else: # En caso de no ingresar numeros separados por comas imprimimos un mensaje
 # lista_enteros = [int(i) for i in lista] # Creamos una lista con los números de la lista anterior pero como enteros
 # print(lista_enteros) # Imprimimos la lista de enteros -> [1, 2, 3, 4, 5]
 
-# Recursos sobre compresión de listas: 
+# Recurso sobre compresión de listas: 
 # https://blog.finxter.com/como-convertir-una-lista-de-cadenas-en-una-lista-de-enteros-en-python/
+
+# Recursos sobre la funcion sum():
+# https://micro.recursospython.com/recursos/como-sumar-los-elementos-de-una-lista.html#:~:text=La%20funci%C3%B3n%20incorporada%20sum(),la%20suma%20de%20sus%20elementos.&text=La%20funci%C3%B3n%20est%C3%A1%20dise%C3%B1ada%20para%20ser%20empleada%20sobre%20elementos%20num%C3%A9ricos.
+# https://www.programiz.com/python-programming/methods/built-in/sum
