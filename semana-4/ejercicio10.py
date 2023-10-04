@@ -14,5 +14,5 @@ def calcular_factorial(numero):
         
     print(factorial)
     
-calcular_factorial(5)
+calcular_factorial(5) # Deberia retornar 120 dado que 5! -> 5*4*3*2*1 = 120 
      
